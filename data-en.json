@@ -1,0 +1,323 @@
+{
+  "profile": {
+    "name": "Flávio Filipe Lima dos Santos Porto",
+    "photo": "img/profile.jpg",
+    "cvLink": "docs/resume_flavio_filipe.pdf",
+    "cvLabel": "Download CV"
+  },
+  "about": {
+    "greeting": "Hello! I'm Flávio.",
+    "description": "Senior Full Stack Developer with a track record since 2016, specializing in robust architectures and the automation of strategic processes and pipelines. Beyond core engineering, I drive the tech ecosystem forward as a consultant, career mentor, and local community leader. I am committed to bridging the gap between high-level software engineering, talent development, and operational efficiency."
+  },
+  "labels": {
+    "statistics": "Statistics",
+    "projects": "Open Projects",
+    "viewProject": "View Project",
+    "technologies": "Technologies I Master",
+    "timeline": "Timeline",
+    "contact": "Contact"
+  },
+  "statistics": [
+    {
+      "value": "10+",
+      "label": "Years of Experience"
+    },
+    {
+      "value": "1",
+      "label": "Community Leader"
+    },
+    {
+      "value": "2",
+      "label": "Languages Spoken"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Tribalismo Catalog",
+      "description": "A high-UX digital catalog designed for efficient product display and inventory management.",
+      "link": "https://github.com/flaviofilipe/tribalismo-catalogo",
+      "tags": [
+        "#Django",
+        "#PostgreSQL",
+        "#Python",
+        "#Docker",
+        "#AWS",
+        "#JavaScript",
+        "#HTML5",
+        "#CSS3"
+      ]
+    },
+    {
+      "title": "Pet Control",
+      "description": "A comprehensive management system for veterinary clinics and pet care tracking.",
+      "link": "https://github.com/flaviofilipe/pet-control",
+      "tags": [
+        "#Python",
+        "#Django",
+        "#PostgreSQL",
+        "#Python",
+        "#Docker",
+        "#AWS",
+        "#JavaScript",
+        "#HTML5",
+        "#CSS3",
+        "#TailwindCSS"
+      ]
+    },
+    {
+      "title": "Cacique API",
+      "description": "A scalable, high-performance API developed to power robust backend services.",
+      "link": "https://github.com/flaviofilipe/cacique-api",
+      "tags": [
+        "#AWS",
+        "#Serverless",
+        "#Python"
+      ]
+    },
+    {
+      "title": "IFBA Crawler API",
+      "description": "Web scraping solution for automated data extraction from academic portals.",
+      "link": "https://github.com/flaviofilipe/ifba-crawler-api",
+      "tags": [
+        "#Python",
+        "#WebScraping",
+        "#Crawler"
+      ]
+    },
+    {
+      "title": "GruPy-VCA Portal",
+      "description": "Central community hub automated to display local events and photo galleries via GitHub Pages.",
+      "link": "https://github.com/GruPy-VCA/grupy-vca.github.io",
+      "tags": [
+        "#Python",
+        "#Community",
+        "#GitHubPages",
+        "#JavaScript",
+        "#HTML5",
+        "#CSS3"
+      ]
+    },
+    {
+      "title": "GruPy Landing Page",
+      "description": "Modern interface with dynamic data integration to drive Python community engagement.",
+      "link": "https://github.com/GruPy-VCA/grupy_landingpage",
+      "tags": [
+        "#FastAPI",
+        "#Python",
+        "#Docker",
+        "#JavaScript",
+        "#HTML5",
+        "#CSS3"
+      ]
+    }
+  ],
+  "technologies": [
+    {
+      "name": "Python",
+      "icon": "fab fa-python"
+    },
+    {
+      "name": "JavaScript",
+      "icon": "fab fa-js-square"
+    },
+    {
+      "name": "Golang",
+      "icon": "fab fa-golang"
+    },
+    {
+      "name": "Node.js",
+      "icon": "fab fa-node-js"
+    },
+    {
+      "name": "ReactJS",
+      "icon": "fab fa-react"
+    },
+    {
+      "name": "AngularJS",
+      "icon": "fab fa-angular"
+    },
+    {
+      "name": "AWS",
+      "icon": "fab fa-aws"
+    },
+    {
+      "name": "Docker",
+      "icon": "fab fa-docker"
+    },
+    {
+      "name": "Git",
+      "icon": "fab fa-git-alt"
+    },
+    {
+      "name": "HTML5",
+      "icon": "fab fa-html5"
+    },
+    {
+      "name": "CSS3",
+      "icon": "fab fa-css3-alt"
+    },
+    {
+      "name": "Django",
+      "icon": "fab fa-python"
+    },
+    {
+      "name": "Laravel",
+      "icon": "fab fa-php"
+    },
+    {
+      "name": "Java",
+      "icon": "fab fa-java"
+    }
+  ],
+  "timeline": [
+    {
+      "period": "Oct 2024 - Now",
+      "title": "Software Engineer Senior at SINQIA/Thomson Reuters",
+      "description": "Developed API features and new features for frontend. Engineered prompts and built APIs for AI Team.",
+      "position": "left"
+    },
+    {
+      "period": "Dec 2022 - Aug 2024",
+      "title": "Backend Python Senior at NTCONSULT US / Opportunity At Work",
+      "description": "Built new integrations for partners, automated processes, and assisted the DevOps team. Designed new architectures.",
+      "position": "right"
+    },
+    {
+      "period": "Dec 2021 - Jul 2022",
+      "title": "Fullstack Software Engineer at SOUTH SYSTEM",
+      "description": "Created and maintained features using GoLang and Python. Managed a client portal using ReactJS, Python, Flask, and AWS Lambda.",
+      "position": "left"
+    },
+    {
+      "period": "Mar 2021 - Dec 2021",
+      "title": "Fullstack Software Engineer at Bom Pra Crédito",
+      "description": "Designed and developed the BPC Invest platform. Maintained a legacy project and created automation tools using Python.",
+      "position": "right"
+    },
+    {
+      "period": "Oct 2020 - Mar 2021",
+      "title": "Fullstack Software Engineer at ELLEVEN",
+      "description": "Built web systems using PHP Laravel and CodeIgniter. Developed desktop services with Java.",
+      "position": "left"
+    },
+    {
+      "period": "May 2020 - Oct 2020",
+      "title": "Frontend Software Engineer at NEDDigital",
+      "description": "Created client apps with React Native and web dashboards with ReactJS. Assisted with backend improvements.",
+      "position": "right"
+    },
+    {
+      "period": "Feb 2020 - May 2020",
+      "title": "Fullstack Software Engineer at IZapSoftworks",
+      "description": "Worked on a project with PHP and Symfony. Integrated GraphQL and built AWS infrastructure with Docker and EC2.",
+      "position": "left"
+    },
+    {
+      "period": "Nov 2019 - Feb 2020",
+      "title": "Fullstack Software Engineer at Vasta",
+      "description": "Managed the backend of a Delivery app. Migrated infrastructure from WordPress to Laravel and improved system performance.",
+      "position": "right"
+    },
+    {
+      "period": "Sep 2018 - Nov 2019",
+      "title": "Fullstack Software Engineer at Ponto Now",
+      "description": "Developed HR management software with PHP and Laravel, and AngularJS. Created automation services with Python and AWS Lambda.",
+      "position": "left"
+    },
+    {
+      "period": "Nov 2017 - Feb 2018",
+      "title": "Freelancer Software Developer at Bluetech",
+      "description": "Created a web-based user management system with Python and Django. Developed features to manage contracts and automate reports.",
+      "position": "right"
+    },
+    {
+      "period": "Jan 2016 - Jun 2017",
+      "title": "Intern Software Developer at WSouza Sistemas",
+      "description": "Built backend modules with PHP and PostgreSQL. Developed frontend templates and an Android application with Java.",
+      "position": "left"
+    },
+    {
+      "period": "Feb 2018 - 2024",
+      "title": "Bachelor's Degree in Information Systems",
+      "description": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA).",
+      "position": "right"
+    },
+    {
+      "period": "Mar 2015 - Mar 2017",
+      "title": "Technician in Informatics",
+      "description": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA).",
+      "position": "left"
+    }
+  ],
+  "community": {
+    "title": "Community Leadership",
+    "name": "GruPy-VCA",
+    "fullName": "Grupo de Usuários Python de Vitória da Conquista",
+    "role": "Founder & Lead Organizer",
+    "logo": "img/grupy_logo.png",
+    "description": "Fostering the tech ecosystem in Southwestern Bahia through the Python language. Direct involvement in event curation, member mentorship, and development of the community's digital infrastructure.",
+    "achievements": [
+      {
+        "icon": "fas fa-chalkboard-teacher",
+        "title": "Knowledge Sharing",
+        "description": "Organizing meetups and technical talks"
+      },
+      {
+        "icon": "fas fa-hands-helping",
+        "title": "Mentorship",
+        "description": "Supporting career development for beginner members"
+      },
+      {
+        "icon": "fab fa-github",
+        "title": "Open Source",
+        "description": "Managing projects and automations for the community portal"
+      }
+    ],
+    "ctaText": "Visit Community Portal",
+    "ctaLink": "https://grupy-vca.github.io"
+  },
+  "contact": {
+    "email": "flaviofilipe.dev@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/flaviofilipedev",
+    "github": "https://github.com/flaviofilipe",
+    "medium": "https://medium.com/@flaviofilipe",
+    "devto": "https://dev.to/flaviofilipe"
+  },
+  "navigation": [
+    {
+      "href": "#about-me",
+      "icon": "fas fa-home",
+      "label": "Home"
+    },
+    {
+      "href": "#community",
+      "icon": "fas fa-users",
+      "label": "Community"
+    },
+    {
+      "href": "#projects",
+      "icon": "fas fa-code-branch",
+      "label": "Projects"
+    },
+    {
+      "href": "#technologies",
+      "icon": "fas fa-cogs",
+      "label": "Technologies"
+    },
+    {
+      "href": "#timeline",
+      "icon": "fas fa-history",
+      "label": "Timeline"
+    },
+    {
+      "href": "#community",
+      "icon": "fas fa-users",
+      "label": "Community"
+    },
+    {
+      "href": "#contact",
+      "icon": "fas fa-envelope",
+      "label": "Contact"
+    }
+  ]
+}

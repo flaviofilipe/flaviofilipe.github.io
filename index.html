@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flávio Filipe Lima dos Santos Porto - Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <!-- Language Selector -->
+    <div class="language-selector-container">
+        <select id="language-selector" onchange="changeLanguage(this.value)">
+            <option value="en">EN</option>
+            <option value="pt-br">PT-BR</option>
+        </select>
+    </div>
+
+    <div class="main-layout">
+        <!-- Sidebar Menu -->
+        <aside class="sidebar">
+            <img id="profile-photo" class="profile-photo" src="" alt="">
+            <h1 id="profile-name" class="name"></h1>
+            <div class="cv-links">
+                <a id="cv-link" href="" target="_blank"></a>
+            </div>
+            <nav id="sidebar-nav" class="sidebar-nav">
+                <!-- Navigation será renderizada pelo JavaScript -->
+            </nav>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="content">
+
+            <!-- Home Section -->
+            <section id="about-me" class="section about-me">
+                <h2 id="about-greeting"></h2>
+                <p id="about-description"></p>
+                <h3 id="statistics-title"></h3>
+                <div id="stats-grid" class="stats-grid">
+                    <!-- Statistics serão renderizadas pelo JavaScript -->
+                </div>
+            </section>
+
+            <!-- Community Leadership Section -->
+            <section id="community" class="section community-section">
+                <h2 id="community-title"></h2>
+                <div id="community-content" class="community-content">
+                    <!-- Community será renderizada pelo JavaScript -->
+                </div>
+            </section>
+
+            <!-- Projects Section -->
+            <section id="projects" class="section projects">
+                <h2 id="projects-title"></h2>
+                <div id="project-grid" class="project-grid">
+                    <!-- Projects serão renderizados pelo JavaScript -->
+                </div>
+            </section>
+
+            <!-- Technologies Section -->
+            <section id="technologies" class="section technologies">
+                <h2 id="technologies-title"></h2>
+                <div id="technologies-grid" class="technologies-grid">
+                    <!-- Technologies serão renderizadas pelo JavaScript -->
+                </div>
+            </section>
+            
+            <!-- Timeline Section -->
+            <section id="timeline-section" class="section timeline-section">
+                <h2 id="timeline-title"></h2>
+                <div id="timeline" class="timeline">
+                    <!-- Timeline será renderizada pelo JavaScript -->
+                </div>
+            </section>
+
+            <!-- Contact Section -->
+            <section id="contact" class="section contact">
+                <h2 id="contact-title"></h2>
+                <div id="contact-links" class="contact-links">
+                    <!-- Contact links serão renderizados pelo JavaScript -->
+                </div>
+            </section>
+
+        </main>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

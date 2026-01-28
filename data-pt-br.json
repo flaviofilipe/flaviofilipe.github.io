@@ -1,0 +1,320 @@
+{
+  "profile": {
+    "name": "Flávio Filipe Lima dos Santos Porto",
+    "photo": "img/profile.jpg",
+    "cvLink": "docs/resume_flavio_filipe.pdf",
+    "cvLabel": "Baixar CV"
+  },
+  "about": {
+    "greeting": "Olá! Eu sou o Flávio.",
+    "description": "Desenvolvedor Full Stack Sênior com atuação desde 2016, especializado na construção de arquiteturas robustas e na automação estratégica de processos e pipelines. Além da atuação técnica, contribuo com o ecossistema de tecnologia como consultor, mentor de carreira e líder de comunidades locais. Meu foco é unir excelência em engenharia de software ao desenvolvimento de talentos e à eficiência operacional."
+  },
+  "labels": {
+    "statistics": "Estatísticas",
+    "projects": "Projetos Abertos",
+    "viewProject": "Ver Projeto",
+    "technologies": "Tecnologias que Domino",
+    "timeline": "Linha do Tempo",
+    "contact": "Contato"
+  },
+  "statistics": [
+    {
+      "value": "10+",
+      "label": "Anos de Experiência"
+    },
+    {
+      "value": "1",
+      "label": "Líder de Comunidade"
+    },
+    {
+      "value": "2",
+      "label": "Idiomas Falados"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Tribalismo Catálogo",
+      "description": "Catálogo digital focado em UX/UI para exibição e gestão eficiente de produtos.",
+      "link": "https://github.com/flaviofilipe/tribalismo-catalogo",
+      "tags": [
+        "#Django",
+        "#PostgreSQL",
+        "#Python",
+        "#Docker",
+        "#AWS",
+        "#JavaScript",
+        "#HTML5",
+        "#CSS3"
+      ]
+    },
+    {
+      "title": "Pet Control",
+      "description": "Sistema completo para gestão de clínicas veterinárias e controle de cuidados animais.",
+      "link": "https://github.com/flaviofilipe/pet-control",
+      "tags": [
+        "#Python",
+        "#Django",
+        "#PostgreSQL",
+        "#Python",
+        "#Docker",
+        "#AWS",
+        "#JavaScript",
+        "#HTML5",
+        "#CSS3",
+        "#TailwindCSS"
+      ]
+    },
+    {
+      "title": "Cacique API",
+      "description": "API escalável e de alta performance desenvolvida para serviços de backend robustos.",
+      "link": "https://github.com/flaviofilipe/cacique-api",
+      "tags": [
+        "#AWS",
+        "#Serverless",
+        "#Python"
+      ]
+    },
+    {
+      "title": "IFBA Crawler API",
+      "description": "Solução de web scraping para extração automatizada de dados de portais acadêmicos.",
+      "link": "https://github.com/flaviofilipe/ifba-crawler-api",
+      "tags": [
+        "#Python",
+        "#WebScraping",
+        "#Crawler"
+      ]
+    },
+    {
+      "title": "GruPy-VCA Portal",
+      "description": "Ponto central da comunidade local, automatizado para exibir eventos e fotos via GitHub Pages.",
+      "link": "https://github.com/GruPy-VCA/grupy-vca.github.io",
+      "tags": [
+        "#Python",
+        "#Community",
+        "#GitHubPages",
+        "#JavaScript",
+        "#HTML5",
+        "#CSS3"
+      ]
+    },
+    {
+      "title": "GruPy Landing Page",
+      "description": "Interface moderna com integração de dados dinâmicos para engajamento da comunidade Python.",
+      "link": "https://github.com/GruPy-VCA/grupy_landingpage",
+      "tags": [
+        "#HTML5",
+        "#CSS3",
+        "#FastAPI",
+        "#Python",
+        "#Docker",
+        "#JavaScript",
+        "#HTML5",
+        "#CSS3"
+      ]
+    }
+  ],
+  "technologies": [
+    {
+      "name": "Python",
+      "icon": "fab fa-python"
+    },
+    {
+      "name": "JavaScript",
+      "icon": "fab fa-js-square"
+    },
+    {
+      "name": "Golang",
+      "icon": "fab fa-golang"
+    },
+    {
+      "name": "Node.js",
+      "icon": "fab fa-node-js"
+    },
+    {
+      "name": "ReactJS",
+      "icon": "fab fa-react"
+    },
+    {
+      "name": "AngularJS",
+      "icon": "fab fa-angular"
+    },
+    {
+      "name": "AWS",
+      "icon": "fab fa-aws"
+    },
+    {
+      "name": "Docker",
+      "icon": "fab fa-docker"
+    },
+    {
+      "name": "Git",
+      "icon": "fab fa-git-alt"
+    },
+    {
+      "name": "HTML5",
+      "icon": "fab fa-html5"
+    },
+    {
+      "name": "CSS3",
+      "icon": "fab fa-css3-alt"
+    },
+    {
+      "name": "Django",
+      "icon": "fab fa-python"
+    },
+    {
+      "name": "Laravel",
+      "icon": "fab fa-php"
+    },
+    {
+      "name": "Java",
+      "icon": "fab fa-java"
+    }
+  ],
+  "timeline": [
+    {
+      "period": "Out 2024 - Atual",
+      "title": "Engenheiro de Software Sênior na SINQIA/Thomson Reuters",
+      "description": "Desenvolvi recursos de API e novas funcionalidades para o frontend. Criei prompts e construí APIs para o Time de IA.",
+      "position": "left"
+    },
+    {
+      "period": "Dez 2022 - Ago 2024",
+      "title": "Backend Python Sênior na NTCONSULT US / Opportunity At Work",
+      "description": "Construí novas integrações para parceiros, automatizei processos e auxiliei a equipe de DevOps. Projetei novas arquiteturas.",
+      "position": "right"
+    },
+    {
+      "period": "Dez 2021 - Jul 2022",
+      "title": "Engenheiro de Software Fullstack na SOUTH SYSTEM",
+      "description": "Criei e mantive funcionalidades usando GoLang e Python. Gerenciei um portal do cliente usando ReactJS, Python, Flask e AWS Lambda.",
+      "position": "left"
+    },
+    {
+      "period": "Mar 2021 - Dez 2021",
+      "title": "Engenheiro de Software Fullstack na Bom Pra Crédito",
+      "description": "Projetei e desenvolvi a plataforma BPC Invest. Mantive um projeto legado e criei ferramentas de automação usando Python.",
+      "position": "right"
+    },
+    {
+      "period": "Out 2020 - Mar 2021",
+      "title": "Engenheiro de Software Fullstack na ELLEVEN",
+      "description": "Construí sistemas web usando PHP Laravel e CodeIgniter. Desenvolvi serviços desktop com Java.",
+      "position": "left"
+    },
+    {
+      "period": "Mai 2020 - Out 2020",
+      "title": "Engenheiro de Software Frontend na NEDDigital",
+      "description": "Criei aplicativos cliente com React Native e dashboards web com ReactJS. Auxiliei em melhorias no backend.",
+      "position": "right"
+    },
+    {
+      "period": "Fev 2020 - Mai 2020",
+      "title": "Engenheiro de Software Fullstack na IZapSoftworks",
+      "description": "Trabalhei em um projeto com PHP e Symfony. Integrei GraphQL e construí infraestrutura AWS com Docker e EC2.",
+      "position": "left"
+    },
+    {
+      "period": "Nov 2019 - Fev 2020",
+      "title": "Engenheiro de Software Fullstack na Vasta",
+      "description": "Gerenciei o backend de um aplicativo de Delivery. Migrei a infraestrutura do WordPress para Laravel e melhorei o desempenho do sistema.",
+      "position": "right"
+    },
+    {
+      "period": "Set 2018 - Nov 2019",
+      "title": "Engenheiro de Software Fullstack na Ponto Now",
+      "description": "Desenvolvi software de gestão de RH com PHP e Laravel, e AngularJS. Criei serviços de automação com Python e AWS Lambda.",
+      "position": "left"
+    },
+    {
+      "period": "Nov 2017 - Fev 2018",
+      "title": "Desenvolvedor de Software Freelancer na Bluetech",
+      "description": "Criei um sistema web de gerenciamento de usuários com Python e Django. Desenvolvi funcionalidades para gerenciar contratos e automatizar relatórios.",
+      "position": "right"
+    },
+    {
+      "period": "Jan 2016 - Jun 2017",
+      "title": "Estagiário Desenvolvedor de Software na WSouza Sistemas",
+      "description": "Construí módulos backend com PHP e PostgreSQL. Desenvolvi templates frontend e um aplicativo Android com Java.",
+      "position": "left"
+    },
+    {
+      "period": "Fev 2018 - 2024",
+      "title": "Bacharelado em Sistemas de Informação",
+      "description": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA).",
+      "position": "right"
+    },
+    {
+      "period": "Mar 2015 - Mar 2017",
+      "title": "Técnico em Informática",
+      "description": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA).",
+      "position": "left"
+    }
+  ],
+  "community": {
+    "title": "Liderança de Comunidades",
+    "name": "GruPy-VCA",
+    "fullName": "Grupo de Usuários Python de Vitória da Conquista",
+    "role": "Fundador & Organizador Principal",
+    "logo": "img/grupy_logo.png",
+    "description": "Fomento ao ecossistema tecnológico do Sudoeste Baiano através da linguagem Python. Atuação direta na curadoria de eventos, mentoria de membros e desenvolvimento da infraestrutura digital da comunidade.",
+    "achievements": [
+      {
+        "icon": "fas fa-chalkboard-teacher",
+        "title": "Compartilhamento de Conhecimento",
+        "description": "Organização de meetups e palestras técnicas"
+      },
+      {
+        "icon": "fas fa-hands-helping",
+        "title": "Mentoria",
+        "description": "Apoio no desenvolvimento de carreira para membros iniciantes"
+      },
+      {
+        "icon": "fab fa-github",
+        "title": "Open Source",
+        "description": "Gestão de projetos e automações para o portal da comunidade"
+      }
+    ],
+    "ctaText": "Visitar Portal da Comunidade",
+    "ctaLink": "https://grupy-vca.github.io"
+  },
+  "contact": {
+    "email": "flaviofilipe.dev@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/flaviofilipedev",
+    "github": "https://github.com/flaviofilipe",
+    "medium": "https://medium.com/@flaviofilipe",
+    "devto": "https://dev.to/flaviofilipe"
+  },
+  "navigation": [
+    {
+      "href": "#about-me",
+      "icon": "fas fa-home",
+      "label": "Início"
+    },
+    {
+      "href": "#projects",
+      "icon": "fas fa-code-branch",
+      "label": "Projetos"
+    },
+    {
+      "href": "#technologies",
+      "icon": "fas fa-cogs",
+      "label": "Tecnologias"
+    },
+    {
+      "href": "#timeline",
+      "icon": "fas fa-history",
+      "label": "Linha do Tempo"
+    },
+    {
+      "href": "#community",
+      "icon": "fas fa-users",
+      "label": "Comunidade"
+    },
+    {
+      "href": "#contact",
+      "icon": "fas fa-envelope",
+      "label": "Contato"
+    }
+  ]
+}
