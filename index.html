@@ -4,15 +4,53 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Flávio Filipe Lima dos Santos Porto - Portfolio</title>
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Senior Full Stack Developer with 10+ years of experience. Specializing in Python, JavaScript, AWS, and cloud architectures. Community leader and tech mentor.">
+    <meta name="keywords" content="Full Stack Developer, Software Engineer, Python, JavaScript, AWS, React, Node.js, Portfolio">
+    <meta name="author" content="Flávio Filipe Lima dos Santos Porto">
+    <meta name="robots" content="index, follow">
+    
+    <!-- Open Graph / Social Media Meta Tags -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Flávio Filipe Lima dos Santos Porto - Portfolio">
+    <meta property="og:description" content="Senior Full Stack Developer with 10+ years of experience. Specializing in Python, JavaScript, AWS, and cloud architectures.">
+    <meta property="og:image" content="assets/icon.png">
+    <meta property="og:url" content="https://flaviofilipe.github.io">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:locale:alternate" content="pt_BR">
+    
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Flávio Filipe Lima dos Santos Porto - Portfolio">
+    <meta name="twitter:description" content="Senior Full Stack Developer with 10+ years of experience.">
+    <meta name="twitter:image" content="assets/icon.png">
+    
+    <!-- Accessibility Meta Tags -->
+    <meta name="theme-color" content="#121212">
+    <meta name="color-scheme" content="dark">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="assets/icon.png">
+    <link rel="apple-touch-icon" href="assets/icon.png">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://flaviofilipe.github.io">
+    
+    <!-- Fonts and Stylesheets -->
     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
+    <!-- Skip to main content link for accessibility -->
+    <a href="#about-me" class="skip-link">Skip to main content</a>
+
     <!-- Language Selector -->
     <div class="language-selector-container">
-        <select id="language-selector" onchange="changeLanguage(this.value)">
+        <label for="language-selector" class="visually-hidden">Select language</label>
+        <select id="language-selector" onchange="changeLanguage(this.value)" aria-label="Select language">
             <option value="en">EN</option>
             <option value="pt-br">PT-BR</option>
         </select>
@@ -20,19 +58,19 @@
 
     <div class="main-layout">
         <!-- Sidebar Menu -->
-        <aside class="sidebar">
-            <img id="profile-photo" class="profile-photo" src="" alt="">
+        <aside class="sidebar" role="complementary" aria-label="Profile and navigation">
+            <img id="profile-photo" class="profile-photo" src="" alt="Profile photo">
             <h1 id="profile-name" class="name"></h1>
             <div class="cv-links">
-                <a id="cv-link" href="" target="_blank"></a>
+                <a id="cv-link" href="" target="_blank" rel="noopener noreferrer" aria-label="Download CV"></a>
             </div>
-            <nav id="sidebar-nav" class="sidebar-nav">
+            <nav id="sidebar-nav" class="sidebar-nav" role="navigation" aria-label="Main navigation">
                 <!-- Navigation será renderizada pelo JavaScript -->
             </nav>
         </aside>
 
         <!-- Main Content -->
-        <main class="content">
+        <main class="content" role="main">
 
             <!-- Home Section -->
             <section id="about-me" class="section about-me">
